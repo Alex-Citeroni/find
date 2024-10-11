@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "find.h": "c",
+        "main.h": "c",
+        "climits": "cpp",
+        "lists.h": "c"
+    }
+}
